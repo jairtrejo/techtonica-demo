@@ -1,0 +1,27 @@
+/*
+ * Theme
+ *
+ * #3c3744
+ * #e16f7c
+ * #3066be
+ * #dd5e98
+ * #fbfff1
+ */
+html {
+    background-color: #FBFFF1;
+}
+
+body {
+    height: 100vh;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-familiy: sans-serif;
+}
+
+h1 {
+    color: #3066BE;
+    font-size: 64px;
+}
